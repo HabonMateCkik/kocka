@@ -21,3 +21,4 @@ for i in range(u):
     if i%n==n-1:
         print()
 
+
